@@ -11,3 +11,8 @@ Baru website dapat bekerja
 
 Berikut adalah link google colab
 link = https://colab.research.google.com/drive/1J7Ne5thzHYiozK2J8eANo1ng9EtcX7PF?usp=sharing
+
+Jika ingin menjalankan server, terdapat beberapa ketentuan yaitu
+dataset hendaknya disimpan di drive user kemudian pada file lungCancer_server.py
+ubah drive.mount serta url path nya sesuai dengan dimana dataset disimpan.
+Dataset wajib disimpan pada google drive!
