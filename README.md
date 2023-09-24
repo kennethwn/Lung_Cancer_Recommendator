@@ -12,10 +12,6 @@ link = https://lung-cancer-kelompok-5.anvil.app
 ### Dataset
 Before you try the website, please store the [dataset](Dataset/lungCancer.csv) in your
 drive storage. (Mandatory)
-Jika ingin menjalankan server, terdapat beberapa ketentuan yaitu
-dataset hendaknya disimpan di drive user kemudian pada file lungCancer_server.py
-ubah drive.mount serta url path nya sesuai dengan dimana dataset disimpan.
-Dataset wajib disimpan pada google drive!
 
 ### Server
 Before you try the website, please ensure that you already run the server.  
